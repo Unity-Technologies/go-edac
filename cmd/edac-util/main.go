@@ -18,5 +18,12 @@ func main() {
 			log.Fatal(err)
 		}
 		fmt.Printf("%#v\n", i)
+		ranks, err := c.DimmRanks()
+		if err != nil {
+			log.Fatal(err)
+		}
+		for _, r := range ranks {
+			fmt.Printf("%#v\n", r)
+		}
 	}
 }
