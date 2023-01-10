@@ -1,4 +1,4 @@
-# go-edac [![Go Report Card](https://goreportcard.com/badge/github.com/multiplay/go-edac)](https://goreportcard.com/report/github.com/multiplay/go-edac) [![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/multiplay/go-edac/blob/master/LICENSE) [![GoDoc](https://godoc.org/github.com/multiplay/go-edac?status.svg)](https://godoc.org/github.com/multiplay/go-edac) [![Build Status](https://travis-ci.org/multiplay/go-edac.svg?branch=master)](https://travis-ci.org/multiplay/go-edac)
+# go-edac [![Go Report Card](https://goreportcard.com/badge/github.com/multiplay/go-edac)](https://goreportcard.com/report/github.com/multiplay/go-edac) [![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/multiplay/go-edac/blob/master/LICENSE) [![GoDoc](https://pkg.go.dev/badge/github.com/multiplay/go-edac?utm_source=godoc)](https://pkg.go.dev/github.com/multiplay/go-edac)
 
 go-edac is a [golang](http://golang.org/) library and utility for Linux kernel [Error Detection and Correction (EDAC)](https://www.kernel.org/doc/html/v4.14/admin-guide/ras.html#edac-error-detection-and-correction).
 
